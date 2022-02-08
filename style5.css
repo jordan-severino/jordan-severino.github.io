@@ -3,7 +3,7 @@ background-color: rgb(112, 136, 154 );
 }
 
 
-button {
+#button {
  background-color:rgb(0,255,255); 
  height: 40px;
  width: 150px;
