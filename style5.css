@@ -9,6 +9,13 @@ div.bulk {
  margin-right: auto;
 }
 
+#h1 About Me {
+ background-color: rgb(112, 136, 154 );
+}
+
+#p1 About Me {
+ background-color: rgb(112, 136, 154 );
+}
 
 #button {
  background-color:rgb(0,255,255); 
